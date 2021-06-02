@@ -1,4 +1,4 @@
-# GitLab-RCE
+# GitLab-Wiki-RCE
 RCE Exploit for Gitlab &lt; 13.9.4
 
 - RCE via unsafe inline Kramdown options when rendering certain Wiki pages
