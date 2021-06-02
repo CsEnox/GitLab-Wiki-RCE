@@ -1,7 +1,7 @@
 # GitLab-RCE
 RCE Exploit for Gitlab &lt; 13.9.4
 
-
+- RCE via unsafe inline Kramdown options when rendering certain Wiki pages
 - Allows any user with push access to a wiki to execute arbitrary ruby code.
 
 ### Credits
