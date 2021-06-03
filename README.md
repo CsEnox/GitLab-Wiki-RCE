@@ -29,3 +29,6 @@ sudo docker run --detach \
 ### Credits
 - https://hackerone.com/reports/1125425 ( vakzz ) 
 - Also referred some code from here [here](https://github.com/ctrlsam/GitLab-11.4.7-RCE)
+
+### Exploit-db
+- https://www.exploit-db.com/exploits/49944
