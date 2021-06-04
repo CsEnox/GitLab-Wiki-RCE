@@ -17,7 +17,7 @@ export GITLAB_HOME=/srv/gitlab
 
 sudo docker run --detach \
   --hostname gitlab.example.com \
-  --publish 443:443 --publish 80:80 --publish 22:22 \
+  --publish 443:443 --publish 80:80 \
   --name gitlab \
   --restart always \
   --volume $GITLAB_HOME/config:/etc/gitlab \
